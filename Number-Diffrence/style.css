@@ -1,0 +1,38 @@
+body{
+    background-color:darkblue;
+    color: white;
+    text-align: center;
+}
+.container{
+    background: grey;
+}
+.first-Number{
+    color: black;
+}
+.Second-Number{
+    color: black;
+}
+.calc{
+    font-size: larger;
+    font-weight: bold;
+    background: darkblue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1rem;
+}
+.calc:hover{
+    background-color: black;
+    color: white;
+}
+.final{
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 2rem;
+}
+.result{
+    font-size: 3rem;
+    font-weight: bolder;
+    padding: 5px;
+    color: black
+}
